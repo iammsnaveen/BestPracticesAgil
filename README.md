@@ -1,7 +1,3 @@
-Here is the formatted text with bold headings suitable for Windows Word format:
-
----
-
 **Agile Practices and Git Commit Guidelines**
 
 **Agile Task Fields for Proper Planning**
